@@ -1,6 +1,6 @@
 Experiment of a no knead dough:
 
-## 2023-04-04 Test Nr 01
+## 2023-04-04 Test Nr 01 ##
 
 Bakers percentage:
 100% Flour
@@ -26,3 +26,5 @@ Flavour was good, salt level could be increased to 3.5%. Thinking it might have 
 450g flour was good. It is a nice sized loaf. Perhaps the size requires different cooking times and temperatures. Probably will do 450g next time as well.
 
 I think for next time, I will try 3.5% salt and 0.5% instant yeast. I will monitor how quickly it rises and depending on what I see I will let it sit out for shorter or longer before going in the fridge.
+
+## END of Test Nr 01 ##
